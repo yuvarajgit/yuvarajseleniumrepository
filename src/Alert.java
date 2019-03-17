@@ -38,6 +38,7 @@ public class Alert {
 			
 			Thread.sleep(3000);
 			driver.switchTo().alert().accept();
+			System.out.println("ravi");
 			
 			
 			
